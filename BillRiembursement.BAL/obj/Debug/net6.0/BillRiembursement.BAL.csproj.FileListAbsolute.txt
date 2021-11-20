@@ -1,0 +1,15 @@
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.BAL\bin\Debug\net6.0\BillRiembursement.BAL.deps.json
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.BAL\bin\Debug\net6.0\BillRiembursement.BAL.dll
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.BAL\bin\Debug\net6.0\ref\BillRiembursement.BAL.dll
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.BAL\bin\Debug\net6.0\BillRiembursement.BAL.pdb
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.BAL\bin\Debug\net6.0\BillRiembursement.DAL.dll
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.BAL\bin\Debug\net6.0\BillRiembursement.DAL.pdb
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.BAL\obj\Debug\net6.0\BillRiembursement.BAL.csproj.AssemblyReference.cache
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.BAL\obj\Debug\net6.0\BillRiembursement.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.BAL\obj\Debug\net6.0\BillRiembursement.BAL.AssemblyInfoInputs.cache
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.BAL\obj\Debug\net6.0\BillRiembursement.BAL.AssemblyInfo.cs
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.BAL\obj\Debug\net6.0\BillRiembursement.BAL.csproj.CoreCompileInputs.cache
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.BAL\obj\Debug\net6.0\BillRiembursement.BAL.csproj.CopyComplete
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.BAL\obj\Debug\net6.0\BillRiembursement.BAL.dll
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.BAL\obj\Debug\net6.0\ref\BillRiembursement.BAL.dll
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.BAL\obj\Debug\net6.0\BillRiembursement.BAL.pdb

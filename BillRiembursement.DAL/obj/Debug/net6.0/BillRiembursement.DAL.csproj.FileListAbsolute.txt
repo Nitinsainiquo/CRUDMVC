@@ -1,0 +1,14 @@
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.DAL\bin\Debug\net6.0\BillRiembursement.DAL.deps.json
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.DAL\bin\Debug\net6.0\BillRiembursement.DAL.runtimeconfig.json
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.DAL\bin\Debug\net6.0\BillRiembursement.DAL.dll
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.DAL\bin\Debug\net6.0\ref\BillRiembursement.DAL.dll
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.DAL\bin\Debug\net6.0\BillRiembursement.DAL.pdb
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.DAL\obj\Debug\net6.0\BillRiembursement.DAL.csproj.AssemblyReference.cache
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.DAL\obj\Debug\net6.0\BillRiembursement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.DAL\obj\Debug\net6.0\BillRiembursement.DAL.AssemblyInfoInputs.cache
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.DAL\obj\Debug\net6.0\BillRiembursement.DAL.AssemblyInfo.cs
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.DAL\obj\Debug\net6.0\BillRiembursement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.DAL\obj\Debug\net6.0\BillRiembursement.DAL.dll
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.DAL\obj\Debug\net6.0\ref\BillRiembursement.DAL.dll
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.DAL\obj\Debug\net6.0\BillRiembursement.DAL.pdb
+C:\Users\nitin.saini\source\repos\Demo CRUD\BillRiembursement.DAL\obj\Debug\net6.0\BillRiembursement.DAL.genruntimeconfig.cache
